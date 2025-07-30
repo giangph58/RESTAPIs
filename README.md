@@ -1,7 +1,4 @@
-# RESTAPIs
-Document my learning of REST APIs module of the Python course from University of Michigan
-
-# Projects
+# Project
 
 This project will take you through the process of mashing up data from two different APIs.  
 
